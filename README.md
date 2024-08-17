@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/maverikkano/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/maverikkano/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/maverikkano/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -24,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/maverikkano/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/maverikkano/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/maverikkano/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
